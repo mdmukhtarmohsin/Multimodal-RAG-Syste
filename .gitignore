@@ -1,0 +1,6 @@
+venv/
+.env
+uploads/
+faiss_*/
+__pycache__/
+uploads/
